@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Projects/mlops_practice/mlruns/0/a5772df19d7f45fda6a4a09f77247673/artifacts
+end_time: 1758823926102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5772df19d7f45fda6a4a09f77247673
+run_name: agreeable-deer-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758823925952
+status: 3
+tags: []
+user_id: rishi
